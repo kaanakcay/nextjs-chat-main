@@ -36,7 +36,7 @@ export function ChatPanel({
 
   const exampleMessages = [
     {
-      heading: 'Adinzi nedir',
+      heading: 'Adinzi nedir acaba',
       subheading: 'trending memecoins today?',
       message: `Adinzi nedir?`
     },
